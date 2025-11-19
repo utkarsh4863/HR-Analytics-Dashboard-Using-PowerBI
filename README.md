@@ -22,9 +22,9 @@ The dashboard delivers a visual, interactive, and actionable summary of workforc
 
 ## 🖼️ Dashboard Preview
 
-> **Note:** Replace the placeholder below with an actual dashboard screenshot.
+
 >
-> ![Dashboard Screenshot](path/to/dashboard-image.png)
+> ![Dashboard Screenshot](https://github.com/utkarsh4863/HR-Analytics-Dashboard-Using-PowerBI/blob/main/Screenshoot%20Dashboard.png)
 
 ---
 
